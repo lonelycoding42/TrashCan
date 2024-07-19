@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="soyo (0d8d2825-fb1d-445f-a59d-78a3379561a7)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="sakiko (305824b9-95aa-4c3d-890a-1633fdf51ab2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="soyo (0d8d2825-fb1d-445f-a59d-78a3379561a7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/soyo/LMS" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="soyo (ddf2f116-cdce-4846-bb8c-b446a1c150dc)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

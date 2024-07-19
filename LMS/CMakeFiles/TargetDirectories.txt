@@ -1,0 +1,3 @@
+/home/soyo/LMS/CMakeFiles/LMS.dir
+/home/soyo/LMS/CMakeFiles/edit_cache.dir
+/home/soyo/LMS/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/LMS.dir/main.cpp.o CMakeFiles/LMS.dir/src/Display.cpp.o CMakeFiles/LMS.dir/src/Book.cpp.o CMakeFiles/LMS.dir/src/User.cpp.o -o LMS
